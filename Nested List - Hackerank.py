@@ -49,7 +49,7 @@ The lowest grade of  belongs to Tina. The second lowest grade of  belongs to bot
 
 """
 
-Solution:
+# Solution:
 
 if __name__ == '__main__':
     python_students = []
