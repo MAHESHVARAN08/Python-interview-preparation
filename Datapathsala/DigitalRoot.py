@@ -34,7 +34,7 @@ def digitalRoot(self, n: int) -> int:
             while n>0:
                 rem=n%10
                 sum+=rem 
-                qt=n//10
+                n=n//10
             n=sum
         return n
 
